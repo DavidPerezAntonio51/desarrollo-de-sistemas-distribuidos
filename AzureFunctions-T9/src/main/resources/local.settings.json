@@ -1,0 +1,14 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "java",
+    "FUNCTIONS_EXTENSION_VERSION": "~4",
+    "AzureWebJobsDashboard": "",
+    "JAVA_OPTS": "-D_dataSourceUrl=jdbc:mysql://localhost:3306/tarearestapp -D_username=root -D_password=password"
+  },
+  "Host": {
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
